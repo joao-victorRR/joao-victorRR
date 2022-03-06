@@ -6,7 +6,7 @@
 
 <h3 align="left">How to reach me::</h3>
 <a href="https://instagram.com/joaovictorrocharodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-303136?style=for-the-badge&logoColor=white" target="_blank"></a>
-<a href = "mailto:joaovictorrocharodrigues@outlook.com"><img src="https://img.shields.io/badge/Outlook-303136?style=for-the-badge&logoColor=white" target="_blank"></a>
+<a href="https://discord.com/users/506129011852967966" target="_blank"><img src="https://img.shields.io/badge/-Discord-303136?style=for-the-badge&logoColor=white" target="_blank"></a>
 
 <h3 align="left">Stats:</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=joao-victorRR&theme=dark&show_icons=false" alt="stats"/>
