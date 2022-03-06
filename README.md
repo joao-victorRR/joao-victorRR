@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm João Victor</h1>
-<h3 align="center">🇧🇷 Student, new to programming, but with a huge desire to learn.</h3>
+<h1 align="center">Hi, I'm João Victor</h1>
+<h3 align="center">Student, new to programming, but with a huge desire to learn.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
