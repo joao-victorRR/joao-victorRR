@@ -9,4 +9,4 @@
 <a href = "mailto:joaovictorrocharodrigues@outlook.com"><img src="https://img.shields.io/badge/Outlook-303136?style=for-the-badge&logoColor=white" target="_blank"></a>
 
 <h3 align="left">Stats:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=joao-victorRR&theme=dark&show_icons=false" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=joao-victorRR&theme=dark&show_icons=false" alt="stats"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-victorRR&layout=compact&langs_count=7&theme=dark"/>
