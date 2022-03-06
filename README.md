@@ -2,7 +2,8 @@
 <h3 align="center">Student, new to programming, but with a huge desire to learn.</h3>
 
 <h3 align="left">Connect with me:</h3>
-<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" align="left" alt="joaovictorrocharodrigues@outlook.com"/>
+- [Outlook](#-analytics-)
+<a href="mailto:joaovictorrocharodrigues@outlook.com">
 <br>
 
 <h3 align="left">Stats:</h3>
